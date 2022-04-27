@@ -1,0 +1,22 @@
+# node
+node_modules
+
+# vscode
+.vscode
+
+# config files
+config_docker.json
+
+# ipynb
+*.ipynb_checkpoints
+
+# macos
+*.DS_Store
+
+# vagrant
+.vagrant
+# mac
+.DS_Store
+
+# venv
+venv/
